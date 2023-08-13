@@ -24,14 +24,14 @@ git clone https://github.com/yourusername/atm-machine-project.git
 
 3. Follow the on-screen instructions to log in, select an account type, and perform transactions.
 
-## Account Information
+**## Account Information**
 
 For testing purposes, the project includes the following account numbers and PINs:
 
 Customer Number: 952141, PIN: 191904
 Customer Number: 989947, PIN: 71976
 
-## Object-Oriented Design
+**## Object-Oriented Design**
 
 This project follows a modular design using classes and inheritance:
 
@@ -39,7 +39,7 @@ This project follows a modular design using classes and inheritance:
 2. The OptionMenu class handles user interactions and menu options, inheriting from the Account class.
 3. The Main class initializes the OptionMenu and starts the ATM simulation.
 
-## Contributing
+**## Contributing**
 
 Contributions are welcome! Feel free to fork this repository, make improvements, and create a pull request. If you find any issues or have suggestions, please open an issue.
 
