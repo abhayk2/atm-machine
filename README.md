@@ -24,7 +24,7 @@ git clone https://github.com/yourusername/atm-machine-project.git
 
 3. Follow the on-screen instructions to log in, select an account type, and perform transactions.
 
-## **Account Information**
+## __Account Information__
 
 For testing purposes, the project includes the following account numbers and PINs:
 
